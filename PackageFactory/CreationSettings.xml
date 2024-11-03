@@ -1,0 +1,31 @@
+<ALLAPPINFO>
+  <ApplicationInforamtion>
+    <Publisher></Publisher>
+    <ApplicationName></ApplicationName>
+    <SoftwareVersion>
+    </SoftwareVersion>
+    <InstallerType>
+    </InstallerType>
+    <Architecture>
+    </Architecture>
+    <ConfigMgrAppName>
+    </ConfigMgrAppName>
+    <ContentLocation>
+    </ContentLocation>
+    <IconLocationFile>
+    </IconLocationFile>
+    <InstallationProgram>Deploy-Application.exe Install Silent</InstallationProgram>
+    <UninstallProgram>Deploy-Application.exe Uninstall Silent</UninstallProgram>
+    <LocalizedDescription>
+    </LocalizedDescription>
+    <Keyword>
+    </Keyword>
+    <DetectionMethod>Script</DetectionMethod>
+    <InstallationBehavior>
+    </InstallationBehavior> 
+    <RebootBehavior>
+    </RebootBehavior>
+    <LogonRequirement>
+    </LogonRequirement>
+  </ApplicationInforamtion>
+</ALLAPPINFO>
